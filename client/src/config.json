@@ -1,0 +1,4 @@
+{
+  "apiUrl": "http://localhost:3800/api",
+  "deployedUrl": "https://smsauthentication2fa.herokuapp.com/api"
+}
